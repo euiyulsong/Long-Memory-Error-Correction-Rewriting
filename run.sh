@@ -5,5 +5,5 @@ python3 bench.py --n 100 \
 python3 bench_clean_term.py \
   --out results_keyword --workers 4
 
-python3 bench_clean_correction.py \
+python3 bench_clean_correction_fixed.py \
   --out results_keyword --workers 4
